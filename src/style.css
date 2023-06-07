@@ -17,8 +17,9 @@ ul {
   margin: 10px auto;
 }
 header {
-  background-color: darkcyan;
+  background-color: blue;
   padding: 20px 0;
+  margin-bottom: 50px;
 }
 .navbar,
 .navbar ul,
